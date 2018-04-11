@@ -1,5 +1,6 @@
 package cn.roc.chapters_one;
 
+
 /**
  * @Author Roc Chen
  * @Description 简单工厂模式----运算超类
@@ -7,5 +8,7 @@ package cn.roc.chapters_one;
  * @Modified By:
  */
 public class Operation {
-
+    public static void main(String[] args) {
+        System.out.println("jjjjjjjjjjjjjjjjjj");
+    }
 }
